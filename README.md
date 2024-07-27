@@ -1,5 +1,7 @@
-# Activity-Detecting
-# Live Sensor Streaming
+# Activity-Detecting, Live Sensor Streaming
+![---------](https://github.com/user-attachments/assets/13a5ed9c-825b-46b6-bb17-c2eb24b6c742)
+link: https://ilmincho.me/activity-detecting-mobile-sensing/
+
 
 ## `Note:`
 
